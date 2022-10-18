@@ -1,6 +1,6 @@
 - 👋 Hi, I’m garciachris0814
 - 👀 I’m interested in working on new projects and gaining more experience!
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python and JavaScript, I have past experince with C++.
 - 💞️ I’m looking to collaborate on gaming projecs!
 - 📫 How to reach me...
 - Email: garciachris0814@gmail.com
